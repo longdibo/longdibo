@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LonGDiBo</h1>
-<h3 align="center">A Data Engineering</h3>
+<h3 align="center">A data engineer who is constantly learning and growing every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longdibo&label=Profile%20views&color=0e75b6&style=flat" alt="longdibo" /> </p>
 
