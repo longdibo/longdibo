@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longdibo&label=Profile%20views&color=0e75b6&style=flat" alt="longdibo" /> </p>
 
 
-- 📫 How to reach me **longpm211@gmail.con**
+- 📫 How to reach me **longpm211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
